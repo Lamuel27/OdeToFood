@@ -153,8 +153,12 @@ C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\Antlr3.Runtime.pdb
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\System.Diagnostics.DiagnosticSource.xml
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\Microsoft.AspNet.TelemetryCorrelation.xml
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csprojAssemblyReference.cache
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csproj.CoreCompileInputs.cache
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csproj.CopyComplete
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.dll
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.pdb
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.dll
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.SqlServer.dll
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.xml
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.SqlServer.xml
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csprojAssemblyReference.cache

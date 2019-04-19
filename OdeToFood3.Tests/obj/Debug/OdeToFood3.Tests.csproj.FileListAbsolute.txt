@@ -68,3 +68,5 @@ C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\obj\Debug\OdeToFood3.T
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\obj\Debug\OdeToFood3.Tests.csproj.CopyComplete
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\obj\Debug\OdeToFood3.Tests.dll
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\obj\Debug\OdeToFood3.Tests.pdb
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\bin\Debug\EntityFramework.dll
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3.Tests\bin\Debug\EntityFramework.xml
