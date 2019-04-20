@@ -162,3 +162,5 @@ C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.SqlServe
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.xml
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\bin\EntityFramework.SqlServer.xml
 C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csprojAssemblyReference.cache
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.Migrations.InitialCreate.resources
+C:\Users\lamue\Desktop\GitDemo\OdeToFood\OdeToFood3\obj\Debug\OdeToFood3.csproj.GenerateResource.cache
