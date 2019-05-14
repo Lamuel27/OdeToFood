@@ -8,6 +8,19 @@ namespace OdeToFood3
         // For more information on bundling, visit https://go.microsoft.com/fwlink/?LinkId=301862
         public static void RegisterBundles(BundleCollection bundles)
         {
+            bundles.Add(new ScriptBundle("~/bundles/otf").Include(
+                "~/Scripts/jquery-{version}.js",
+                "~/Scripts/jquery-ui-{version}.js",
+                "~/Scripts/jquery.unobtrusive*",
+                "~/Scripts/jquery.validate*",
+                "~/Scripts/otf.js"));
+
+            bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
+            "~/Scripts/jquery-ui-{version}.js"));
+
+            bundles.Add(new StyleBundle("~/Content/themes/base/css").Include(
+             "~/Content/themes/base/all.css"));
+
             bundles.Add(new ScriptBundle("~/bundles/jquery").Include(
                         "~/Scripts/jquery-{version}.js"));
 
